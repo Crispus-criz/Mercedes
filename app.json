@@ -10,7 +10,7 @@
       "SESSION_ID": {
       "description": "your session id",
       "required": true,
-      "value": ""
+      "value": "Ethix-MD&y9qe1KA1"
     },
     "MODE": {
       "description": "mode public or self",
@@ -19,7 +19,7 @@
     },
     "AUTO_STATUS_SEEN": {
       "description": "make it true if you want bot to view status",
-      "required": false,
+      "required": true,
       "value": "true"
     },
     "AUTO_READ": {
